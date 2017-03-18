@@ -5,6 +5,7 @@ void myPrintHelloMake(void)
 {
  printf("HELLO MAKE FILES!\n");
  printf("My first git program");
+ printf("HAI");
  return;
 }
 
